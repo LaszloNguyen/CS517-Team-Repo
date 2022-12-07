@@ -1,5 +1,5 @@
 # CS517-Team-Repo
- Code for PGP project
+ Code for PGP project by Laszlo Nguyen
 
- Undecided-Name Game
+ Alis Game
  
