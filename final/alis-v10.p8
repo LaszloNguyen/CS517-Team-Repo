@@ -29,9 +29,11 @@ end
 
 function _update60()
  ticks+=1
- if (btn(4)) then
-  state="gameover"
- end 
+ 
+ --if (btn(4)) then
+  --state="gameover"
+ --end 
+ 
  if state=="logo" then
   logo:update()
   if logo.fcount>240 then
